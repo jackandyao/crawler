@@ -1,0 +1,67 @@
+--- 添加商品进选品库 
+post http://pub.alimama.com/favorites/item/batchAdd.json
+
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.8
+Content-Type:application/x-www-form-urlencoded; charset=UTF-8
+Cookie:cookie2=0d52c6490076fbb51dc1cd51c5ed869a; t=ce7c9425dfad08bb75605b1cebb8815c; v=0; _tb_token_=OxYN4y0O9xq; cookie32=a1e0f68116710abfbe9991112fd7e8a1; 
+
+post 数据
+groupId:10532872
+itemListStr:538391143009
+_tb_token_:OxYN4y0O9xq
+
+
+--- excel文件
+get http://pub.alimama.com/favorites/item/export.json?scenes=1&adzoneId=107446964&siteId=28196713&groupId=7337009
+
+ios
+spm:a219t.7900221/11.1998910291.dca9f959b
+pvid:11_101.81.237.212_3096_1504085622284
+actionid:303.21214865hgotaC
+scenes:1
+adzoneId:76574177
+siteId:23098705
+
+groupId:10584632
+
+android
+spm:a219t.7900221/11.1998910291.dca9f959b
+pvid:11_101.81.237.212_3096_1504085622284
+actionid:303.21214865hgotaC
+scenes:1
+adzoneId:76562672
+siteId:23088972
+
+groupId:10584632
+
+
+--- 创建选品库
+post http://pub.alimama.com/favorites/group/save.json
+
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Cookie:cookie2=0d52c6490076fbb51dc1cd51c5ed869a; t=ce7c9425dfad08bb75605b1cebb8815c; v=0; _tb_token_=OxYN4y0O9xq; cookie32=a1e0f68116710abfbe9991112fd7e8a1; 
+
+post 数据
+groupTitle=测试&groupType=1&t=1503904589282&_tb_token_=OxYN4y0O9xq&pvid=11_101.81.237.212_1198_1503904532855
+
+response html
+{"data":{"data":10535441},"info":{"message":null,"ok":true},"ok":true,"invalidKey":null}
+
+data 的值就是选品库ID
+
+--- 删除选品库
+post http://pub.alimama.com/favorites/group/delete.json
+
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Cookie:cookie2=0d52c6490076fbb51dc1cd51c5ed869a; t=ce7c9425dfad08bb75605b1cebb8815c; v=0; _tb_token_=OxYN4y0O9xq; cookie32=a1e0f68116710abfbe9991112fd7e8a1; 
+
+post 数据
+groupId=10535651&_tb_token_=OxYN4y0O9xq

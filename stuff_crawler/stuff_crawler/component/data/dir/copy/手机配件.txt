@@ -1,0 +1,16 @@
+手机配件_手机配件_手机移动电源&{"startTkRate": "10", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机电池&{"startTkRate": "10", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机蓝牙耳机&{"startTkRate": "10", "startBiz30day": "30", "startPrice": "20", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机充电器&{"startTkRate": "15", "startBiz30day": "40", "startPrice": "1", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_苹果周边&{"startTkRate": "10", "startBiz30day": "30", "startPrice": "1", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机耳机&{"startTkRate": "10", "startBiz30day": "30", "startPrice": "1", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机贴膜&{"startTkRate": "25", "startBiz30day": "40", "startPrice": "9", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机存储卡&{"startTkRate": "2", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机数据线&{"startTkRate": "20", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机保护套&{"startTkRate": "30", "startBiz30day": "40", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机车载配件&{"startTkRate": "1", "startBiz30day": "10", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_iPhone配件&{"startTkRate": "1", "startBiz30day": "10", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机创意配件&{"startTkRate": "1", "startBiz30day": "10", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机饰品&{"startTkRate": "10", "startBiz30day": "10", "startPrice": "1", "sortType": "9", "endPrice": "100"}
+手机配件_手机配件_手机拍照配件&{"startTkRate": "1", "startBiz30day": "10", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+手机配件_手机配件_手机支架&{"startTkRate": "15", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}

@@ -1,0 +1,4 @@
+materialType:1
+adtType:33
+protocol:1
+codeType:1

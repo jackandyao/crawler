@@ -1,0 +1,12 @@
+智能设备_智能组件_智能家庭&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "30", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能安防&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "30", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能排插&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "30", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能音箱&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "30", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能手表&{"startTkRate": "1", "startBiz30day": "20", "startPrice": "100", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能手环&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能平衡车&{"startTkRate": "0.1", "startBiz30day": "1", "startPrice": "300", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能无人机&{"startTkRate": "0.1", "startBiz30day": "1", "startPrice": "300", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能机器人&{"startTkRate": "0.1", "startBiz30day": "5", "startPrice": "200", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能眼镜&{"startTkRate": "0.1", "startBiz30day": "1", "startPrice": "30", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能摄像&{"startTkRate": "0.1", "startBiz30day": "5", "startPrice": "100", "sortType": "9", "endPrice": "10000"}
+智能设备_智能组件_智能称&{"startTkRate": "0.1", "startBiz30day": "1", "startPrice": "30", "sortType": "9", "endPrice": "10000"}

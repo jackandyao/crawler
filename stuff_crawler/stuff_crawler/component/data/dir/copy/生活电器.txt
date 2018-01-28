@@ -1,0 +1,33 @@
+生活电器_电器组件配件_换气扇配件%second
+生活电器_电器组件配件_缝纫机配件%second
+生活电器_电器组件配件_净化配件%second
+生活电器_电器组件配件_加湿抽湿机配件%second
+生活电器_电器组件配件_生活家电配件%second
+生活电器_电器组件配件_电熨斗配件%second
+生活电器_电器组件配件_扫地机配件%second
+生活电器_电器组件_清洁机&{"startTkRate": "1", "startBiz30day": "5", "startPrice": "50", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_挂烫机&{"startTkRate": "1", "startBiz30day": "5", "startPrice": "50", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_吸尘器&{"startTkRate": "1", "startBiz30day": "5", "startPrice": "50", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_保温碟&{"startTkRate": "1", "startBiz30day": "1", "startPrice": "5", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_保温垫&{"startTkRate": "1", "startBiz30day": "5", "startPrice": "5", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_充气泵&{"startTkRate": "5", "startBiz30day": "5", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_缝纫机&{"startTkRate": "5", "startBiz30day": "5", "startPrice": "20", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_干手器&{"startTkRate": "1", "startBiz30day": "3", "startPrice": "40", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_解毒机&{"startTkRate": "1", "startBiz30day": "4", "startPrice": "40", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_活氧机&{"startTkRate": "1", "startBiz30day": "4", "startPrice": "40", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_加香机&{"startTkRate": "1", "startBiz30day": "4", "startPrice": "40", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_超声波清洗机&{"startTkRate": "1", "startBiz30day": "4", "startPrice": "40", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_除螨仪&{"startTkRate": "1", "startBiz30day": "4", "startPrice": "40", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_除湿器&{"startTkRate": "1", "startBiz30day": "4", "startPrice": "40", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_电热毯&{"startTkRate": "1", "startBiz30day": "4", "startPrice": "30", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_电熨斗&{"startTkRate": "1", "startBiz30day": "5", "startPrice": "40", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_对讲机&{"startTkRate": "5", "startBiz30day": "5", "startPrice": "30", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_换气扇&{"startTkRate": "3", "startBiz30day": "5", "startPrice": "40", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_排气扇&{"startTkRate": "3", "startBiz30day": "5", "startPrice": "40", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_电风扇&{"startTkRate": "3", "startBiz30day": "30", "startPrice": "30", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_吊扇&{"startTkRate": "3", "startBiz30day": "5", "startPrice": "15", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_暖手宝&{"startTkRate": "2", "startBiz30day": "5", "startPrice": "9", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_电子灭蚊器&{"startTkRate": "1", "startBiz30day": "3", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_电子温湿度计&{"startTkRate": "1", "startBiz30day": "3", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_节电器&{"startTkRate": "1", "startBiz30day": "3", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+生活电器_电器组件_擦窗机器人&{"startTkRate": "1", "startBiz30day": "3", "startPrice": "100", "sortType": "9", "endPrice": "1000"}

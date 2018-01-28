@@ -1,0 +1,28 @@
+手机__手机_HTC手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}
+手机__手机_LG手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}
+手机__手机_TCL手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}
+手机__手机_三星手机&{"startTkRate": "0.1","endTkRate": "1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}$3
+手机__手机_华为手机&{"startTkRate": "0.1","endTkRate": "1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}
+手机__手机_天语手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}
+手机__手机_小米手机&{"startTkRate": "0.1","endTkRate": "0.6", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}
+手机__手机_小辣椒手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}
+手机__手机_海信手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}
+手机__手机_海尔手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "150", "sortType": "9", "endPrice": "500"}
+手机__手机_索尼手机&{"startTkRate": "0.1", "startBiz30day": "4", "startPrice": "2300", "sortType": "9", "endPrice": "10000"}
+手机__手机_纽曼手机&{"startTkRate": "0.1", "startBiz30day": "10", "startPrice": "100", "sortType": "9", "endPrice": "500"}
+手机__手机_联想手机&{"startTkRate": "1","endTkRate": "2", "startBiz30day": "3", "startPrice": "400", "sortType": "9", "endPrice": "500"}
+手机__手机_诺基亚手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "300", "sortType": "9", "endPrice": "10000"}
+手机__手机_酷派手机&{"startTkRate": "0.1","endTkRate": "1.2", "startBiz30day": "3", "startPrice": "400", "sortType": "9", "endPrice": "500"}
+手机__手机_金立手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "1000", "sortType": "9", "endPrice": "10000"}
+手机__手机_长虹手机&{"startTkRate": "0.1","endTkRate": "21", "startBiz30day": "3", "startPrice": "150", "sortType": "9", "endPrice": "400"}
+手机__手机_飞利浦手机&{"startTkRate": "0.1","endTkRate": "0.6", "startBiz30day": "3", "startPrice": "340", "sortType": "9", "endPrice": "500"}
+手机__手机_魅族手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}
+手机_手机_360手机&{"startTkRate": "0.1","endTkRate": "1", "startBiz30day": "3", "startPrice": "499", "sortType": "9", "endPrice": "10000"}
+手机_手机_OPPO手机&{"startTkRate": "0.1","endTkRate": "1", "startBiz30day": "3", "startPrice": "600", "sortType": "9", "endPrice": "10000"}$4
+手机_手机_vivo手机&{"startTkRate": "0.1","endTkRate": "5", "startBiz30day": "3", "startPrice": "800", "sortType": "9", "endPrice": "10000"}$5
+手机_手机_一加手机&{"startTkRate": "0.1","endTkRate": "2", "startBiz30day": "3", "startPrice": "2000", "sortType": "9", "endPrice": "10000"}
+手机_手机_中兴手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "400", "sortType": "9", "endPrice": "10000"}
+手机_手机_努比亚手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "1500", "sortType": "9", "endPrice": "10000"}
+手机_手机_美图手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "1000", "sortType": "9", "endPrice": "10000"}
+手机_手机_苹果手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "2000", "sortType": "9", "endPrice": "10000"}$1
+手机_手机_锤子手机&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "1000", "sortType": "9", "endPrice": "10000"}

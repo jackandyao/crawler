@@ -1,0 +1,110 @@
+住宅家具_床类_布艺床&{"startTkRate": "3", "startBiz30day": "3", "startPrice": "400", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_皮艺床&{"startTkRate": "3", "startBiz30day": "3", "startPrice": "400", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_实木床&{"startTkRate": "3", "startBiz30day": "10", "startPrice": "400", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_藤艺床&{"startTkRate": "1", "startBiz30day": "10", "startPrice": "400", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_铁艺床&{"startTkRate": "3", "startBiz30day": "3", "startPrice": "150", "sortType": "9", "endPrice": "10000"}$3
+住宅家具_床类_钢木床&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "150", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_床配件&{"startTkRate": "0.1", "startBiz30day": "3", "startPrice": "10", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_板木结合床&{"startTkRate": "0.1", "startBiz30day": "1", "startPrice": "300", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_板式床&{"startTkRate": "1", "startBiz30day": "3", "startPrice": "150", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_充气床&{"startTkRate": "3", "startBiz30day": "3", "startPrice": "50", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_床架&{"startTkRate": "3", "startBiz30day": "10", "startPrice": "50", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_床板&{"startTkRate": "3", "startBiz30day": "10", "startPrice": "50", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_儿童床&{"startTkRate": "6", "startBiz30day": "10", "startPrice": "150", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_拔步床&{"startTkRate": "0.1", "startBiz30day": "1", "startPrice": "150", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_架子床&{"startTkRate": "1", "startBiz30day": "3", "startPrice": "150", "sortType": "9", "endPrice": "10000"}$3
+住宅家具_床类_罗汉床&{"startTkRate": "1", "startBiz30day": "3", "startPrice": "150", "sortType": "9", "endPrice": "10000"}
+住宅家具_床类_衣柜床&{"startTkRate": "1", "startBiz30day": "3", "startPrice": "150", "sortType": "9", "endPrice": "10000"}$7
+住宅家具_床类_婴儿床&{"startTkRate": "2", "startBiz30day": "30", "startPrice": "100", "sortType": "9", "endPrice": "10000"}$6
+住宅家具_床类_折叠床&{"startTkRate": "5", "startBiz30day": "30", "startPrice": "50", "sortType": "9", "endPrice": "10000"}$5
+住宅家具_床类_高低床&{"startTkRate": "3", "startBiz30day": "5", "startPrice": "100", "sortType": "9", "endPrice": "10000"}
+住宅家具_床垫类_乳胶床垫%two
+住宅家具_床垫类_水床垫%two
+住宅家具_床垫类_椰棕床垫%two
+住宅家具_床垫类_圆床垫%two
+住宅家具_家具辅料_布艺%two
+住宅家具_家具辅料_玻璃%two
+住宅家具_家具辅料_海绵%two
+住宅家具_家具辅料_家具纸%two
+住宅家具_家具辅料_皮革%two
+住宅家具_家具辅料_亚克力%two
+住宅家具_家具辅料_移门装饰配件%two
+住宅家具_家具辅料_欧式家具配件装饰花%two
+住宅家具_家具辅料_进口原色植鞣革%two
+住宅家具_附件_茶几%two
+住宅家具_附件_茶桌%two
+住宅家具_附件_凳子%two
+住宅家具_附件_花架%two
+住宅家具_附件_金丝楠木%two
+住宅家具_附件_木根茶几根雕特价%two
+住宅家具_附件_黄金樟大茶台%two
+住宅家具_镜子类_穿衣镜%two
+住宅家具_镜子类_化妆镜%two
+住宅家具_镜子类_折叠镜%two
+住宅家具_镜子类_落地镜%two
+住宅家具_镜子类_宿舍镜%two
+住宅家具_镜子类_双面镜子%two
+住宅家具_镜子类_壁挂镜%two
+住宅家具_情趣家具_情趣床%two
+住宅家具_情趣家具_情趣沙发%two
+住宅家具_情趣家具_电动圆床%two
+住宅家具_箱类_家用保险箱%two
+住宅家具_箱类_藏箱%two
+住宅家具_箱类_扣箱%two
+住宅家具_箱类_遮挡箱%two
+住宅家具_箱类_钥匙盒%two
+住宅家具_箱类_衣箱%two
+住宅家具_箱类_首饰盒%two
+住宅家具_箱类_木箱%two
+住宅家具_床垫类_3D床垫%two
+住宅家具_床垫类_弹簧床垫%two
+住宅家具_床垫类_儿童床垫%two
+住宅家具_床垫类_复合床垫%two
+住宅家具_床垫类_海绵床垫%two
+住宅家具_床垫类_卷包床垫%two
+住宅家具_床垫类_折叠床垫%two
+住宅家具_床垫类_棕榈床垫%two
+住宅家具_架类1_CD架%two
+住宅家具_架类1_壁炉架%two
+住宅家具_架类1_多宝格%two
+住宅家具_架类1_博古架%two
+住宅家具_架类1_格架%two
+住宅家具_架类1_花架%two
+住宅家具_架类1_书报架%two
+住宅家具_架类1_花几%two
+住宅家具_架类1_画架%two
+住宅家具_架类_家用雨伞架%two
+住宅家具_架类1_酒架%two
+住宅家具_架类1_面盆架%two
+住宅家具_架类2_书架%two
+住宅家具_架类2_鞋架%two
+住宅家具_架类2_衣帽架%two
+住宅家具_架类2_搁板架%two
+住宅家具_架类_置物架%two
+住宅家具_架类1_组合衣架%two
+住宅家具_成套家具_餐厅成套家具%two
+住宅家具_成套家具_客厅成套家具%two
+住宅家具_成套家具_卧室成套家具%two
+住宅家具_成套家具_儿童成套家具%two
+住宅家具_成套家具_功能房成套家具%two
+住宅家具_成套家具_书房成套家具%two
+住宅家具_柜类1_柜子配件%two
+住宅家具_柜类1_吊柜%two
+住宅家具_柜类1_壁柜%two
+住宅家具_柜类1_餐边柜%two
+住宅家具_柜类1_床头柜%two
+住宅家具_柜类1_书柜%two
+住宅家具_柜类2_电视柜%two
+住宅家具_柜类1_顶箱柜%two
+住宅家具_柜类1_斗柜%two
+住宅家具_柜类3_佛柜%two
+住宅家具_柜类3_佛龛%two
+住宅家具_柜类2_衣柜%two
+住宅家具_柜类1_角柜%two
+住宅家具_柜类1_酒柜%two
+住宅家具_柜类1_连体书桌柜%two
+住宅家具_柜类1_飘窗柜%two
+住宅家具_柜类2_鞋柜%two
+住宅家具_柜类1_门厅柜%two
+住宅家具_柜类1_玄关柜%two
+住宅家具_柜类1_药柜%two

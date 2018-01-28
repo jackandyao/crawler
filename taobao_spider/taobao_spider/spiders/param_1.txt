@@ -1,0 +1,7 @@
+startPrice:10
+endPrice:10000
+startTkRate:15
+endTkRate:90
+sortType:9
+startBiz30day:50
+dpyhq:1

@@ -1,0 +1,11 @@
+茶_茗茶_铁观音&{"startTkRate": "1", "startBiz30day": "30", "startPrice": "1", "sortType": "9", "endPrice": "1000"}
+茶_茗茶_普洱&{"startTkRate": "10", "startBiz30day": "30", "startPrice": "1", "sortType": "9", "endPrice": "1000"}
+茶_茗茶_龙井&{"startTkRate": "15", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+茶_茗茶_绿茶&{"startTkRate": "15", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+茶_茗茶_红茶&{"startTkRate": "15", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+茶_茗茶_乌龙茶&{"startTkRate": "15", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+茶_茗茶_花草茶&{"startTkRate": "15", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+茶_茗茶_花果茶&{"startTkRate": "15", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+茶_茗茶_养生茶&{"startTkRate": "15", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+茶_茗茶_黑茶&{"startTkRate": "15", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}
+茶_茗茶_白茶&{"startTkRate": "15", "startBiz30day": "30", "startPrice": "10", "sortType": "9", "endPrice": "1000"}

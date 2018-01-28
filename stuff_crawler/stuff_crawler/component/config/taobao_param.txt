@@ -1,0 +1,5 @@
+startPrice:20
+endPrice:10000
+sortType:9
+startBiz30day:10
+startTkRate:5
